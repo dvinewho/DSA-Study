@@ -1,0 +1,12 @@
+﻿item,label,Score_1,pct_1,Score_2,pct_2,Score_3,pct_3,Score_4,pct_4,Score_5,pct_5,pct_agree,pct_neutral,pct_disagree,mean_score,sd_score
+overall_experience,Overall experience with 2-2-1,12,0.8,117,8.2,326,22.8,787,55.2,185,13.0,68.1,22.8,9.0,3.709,0.82
+schedule_fit,Fits my schedule/responsibilities,13,0.9,151,10.6,368,25.8,679,47.6,216,15.1,62.7,25.8,11.5,3.655,0.892
+transition_comfort,Comfortable switching F2F/online/async,11,0.8,85,6.0,230,16.1,666,46.7,435,30.5,77.2,16.1,6.7,4.001,0.88
+understanding,Improved my understanding of lessons,16,1.1,91,6.4,363,25.4,657,46.0,300,21.0,67.1,25.4,7.5,3.795,0.883
+stay_on_track,"Can complete requirements, stay on track",7,0.5,81,5.7,267,18.7,799,56.0,273,19.1,75.1,18.7,6.2,3.876,0.797
+f2f_focus,Focus is stronger on F2F days,3,0.2,30,2.1,205,14.4,276,19.3,913,64.0,83.3,14.4,2.3,4.448,0.829
+academic_performance,Academic performance vs. full F2F,12,0.8,103,7.2,336,23.5,731,51.2,245,17.2,68.4,23.5,8.1,3.767,0.847
+reduce_electricity,Reduced electricity use at school,2,0.1,3,0.2,25,1.8,43,3.0,1354,94.9,97.9,1.8,0.4,4.923,0.368
+reduce_fuel,Reduced my household fuel expenses,5,0.4,7,0.5,29,2.0,22,1.5,1364,95.6,97.1,2.0,0.8,4.915,0.436
+crisis_effectiveness,Effective vs. power/fuel crisis,4,0.3,9,0.6,31,2.2,33,2.3,1350,94.6,96.9,2.2,0.9,4.903,0.45
+support_continue,Support continuing 2-2-1 as is,16,1.1,36,2.5,29,2.0,179,12.5,1167,81.8,94.3,2.0,3.6,4.713,0.729

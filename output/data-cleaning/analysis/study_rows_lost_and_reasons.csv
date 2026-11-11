@@ -1,0 +1,6 @@
+﻿source_study,study_role,raw_rows,cleaned_rows,rows_lost,cleaned_pct,lost_pct,why_rows_lost
+Main_Study_PH_CNSC_Blended_221,Main Study (PH CNSC),123,117,6,95.12,4.88,Screened out: Straight-lining (zero variance across all 11 Likert items with blank open-ended text) (n=5); Screened out: Duplicate email submission (n=1)
+Public_S4_Makassar_2021_Student_Perception,"Public Study (Makassar, 2021)",250,229,21,91.6,8.4,Screened out: Straight-lining (identical agreement rating across all 16 survey items) (n=21)
+Public_S3_Irwanto_2024_ID_SRL,"Public Study (Irwanto, 2024)",577,573,4,99.31,0.69,Screened out: Straight-lining (identical score across all 24 OSLQ items) (n=4)
+Public_S2_Le_2026_VN_Blended,"Public Study (Le et al., 2026)",580,508,72,87.59,12.41,Screened out: Straight-lining (identical score across all 30 survey items) (n=72)
+TOTAL_UNIFIED_DATASET,All Combined (Main + 4 Public),1530,1427,103,93.27,6.73,"Screened out: Duplicate submissions, straight-lining, or failed attention checks (n=103)"

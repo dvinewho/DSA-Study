@@ -1,0 +1,17 @@
+﻿variable,count,mean,std,min,median,max,label
+overall_experience,1427.0,3.709,0.82,1.0,4.0,5.0,Overall experience with 2-2-1
+schedule_fit,1427.0,3.655,0.892,1.0,4.0,5.0,Fits my schedule/responsibilities
+transition_comfort,1427.0,4.001,0.88,1.0,4.0,5.0,Comfortable switching F2F/online/async
+understanding,1427.0,3.795,0.883,1.0,4.0,5.0,Improved my understanding of lessons
+stay_on_track,1427.0,3.876,0.797,1.0,4.0,5.0,"Can complete requirements, stay on track"
+f2f_focus,1427.0,4.448,0.829,1.0,5.0,5.0,Focus is stronger on F2F days
+academic_performance,1427.0,3.767,0.847,1.0,4.0,5.0,Academic performance vs. full F2F
+reduce_electricity,1427.0,4.923,0.368,1.0,5.0,5.0,Reduced electricity use at school
+reduce_fuel,1427.0,4.915,0.436,1.0,5.0,5.0,Reduced my household fuel expenses
+crisis_effectiveness,1427.0,4.903,0.45,1.0,5.0,5.0,Effective vs. power/fuel crisis
+support_continue,1427.0,4.713,0.729,1.0,5.0,5.0,Support continuing 2-2-1 as is
+learning_index,1427.0,3.812,0.656,1.0,4.0,5.0,learning_index
+adaptability_index,1427.0,3.828,0.737,1.0,4.0,5.0,adaptability_index
+crisis_index,1427.0,4.914,0.394,1.0,5.0,5.0,crisis_index
+crisis_learning_gap,1427.0,1.101,0.645,-2.0,1.0,3.333,crisis_learning_gap
+challenge_count,1427.0,0.226,0.845,0.0,0.0,6.0,challenge_count

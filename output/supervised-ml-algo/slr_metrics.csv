@@ -1,0 +1,2 @@
+model,predictor,target,slope,intercept,r2,rmse,mae
+Simple Linear Regression (SLR),learning_index,support_continue,0.3048,3.5688,0.0446,0.7585,0.484

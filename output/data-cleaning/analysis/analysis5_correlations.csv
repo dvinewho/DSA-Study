@@ -1,0 +1,11 @@
+﻿var_1,var_2,pearson_r
+learning_index,support_continue,0.2666
+adaptability_index,support_continue,0.2228
+crisis_index,support_continue,0.6164
+learning_index,adaptability_index,0.5772
+reduce_electricity,reduce_fuel,0.8243
+reduce_fuel,crisis_effectiveness,0.856
+understanding,academic_performance,0.448
+schedule_fit,transition_comfort,0.383
+internet_num,learning_index,0.0824
+challenge_count,support_continue,-0.5447

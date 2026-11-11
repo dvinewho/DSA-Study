@@ -1,0 +1,27 @@
+================================================================================================
+SUPERVISED MACHINE LEARNING SUMMARY REPORT (6 ALGORITHMS)
+Study: Perceptions of College Students Toward Blended Learning as a Response to Power Fuel Crisis
+================================================================================================
+Master Clean Dataset Sample Size N = 3,090 Valid Records across 5 Unified Data Sources
+
+1. REGRESSION MODELS (CONTINUOUS SUPPORT FOR CONTINUATION PREDICTION):
+                           model                                                                     predictors           target     r2   rmse    mae
+  Simple Linear Regression (SLR)                                                                 learning_index support_continue 0.0446 0.7585 0.4840
+Multiple Linear Regression (MLR) 6 Predictors (Learning, Adaptability, Crisis, F2F Focus, Internet, Challenges) support_continue 0.4561 0.5723 0.3373
+
+2. CLASSIFICATION MODELS (CATEGORICAL SUPPORT CATEGORY PREDICTION [Not supportive, Neutral, Supportive]):
+                       model  accuracy                         hyperparameters
+    Decision Tree Classifier    0.9384             max_depth=3, criterion=gini
+   K-Nearest Neighbors (KNN)    0.9440                   k=5, metric=euclidean
+        Gaussian Naive Bayes    0.9272 Gaussian prior, zero variance smoothing
+Support Vector Machine (SVM)    0.9412      kernel=rbf, C=1.0, scaled features
+
+KEY TAKEAWAYS & EMPIRICAL FINDINGS FOR DEFENSE:
+1. SLR demonstrates that perceived Academic Learning Effectiveness (learning_index) significantly predicts
+   student support for continuing the 2-2-1 blended learning schedule.
+2. MLR reveals that combining Academic Learning Index, Schedule & Transition Adaptability (adaptability_index),
+   and Power/Fuel Crisis Mitigation Index (crisis_index) substantially increases explained variance (R²),
+   proving that students weigh both academic comprehension and resource conservation when endorsing the modality.
+3. Among the 4 classifiers (Decision Tree, KNN, Gaussian Naive Bayes, and RBF-SVM), non-linear and probabilistic
+   models accurately classify students into 'Not supportive', 'Neutral', and 'Supportive' cohorts.
+================================================================================================

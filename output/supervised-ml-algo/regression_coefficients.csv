@@ -1,0 +1,8 @@
+feature,display_name,coefficient
+learning_index,Academic Learning Index,0.1183
+adaptability_index,Schedule & Transition Adaptability,0.1167
+crisis_index,Power/Fuel Crisis Mitigation Index,0.8259
+f2f_focus,F2F Focus Preference,-0.2908
+internet_num,Home Internet Reliability,0.3864
+challenge_count,Total Modality Challenges,-0.1475
+intercept,Model Intercept,0.2183

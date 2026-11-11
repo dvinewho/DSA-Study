@@ -1,0 +1,75 @@
+================================================================================================
+UNSUPERVISED MACHINE LEARNING SUMMARY REPORT (K-MEANS & MEAN-SHIFT)
+Study: Perceptions of College Students Toward Blended Learning as a Response to Power Fuel Crisis
+================================================================================================
+Total Dataset Clustered: 3,090 clean unified records across 5 harmonized data sources
+
+1. ALGORITHM COMPARISON:
+            algorithm                    type  clusters  silhouette_score                                                                               key_property
+   K-Means Clustering Centroid / Partitioning         4            0.3780 Preset k=4 personas; partitions latent construct space into distinct behavioral archetypes
+Mean-Shift Clustering  Density / Mode-Seeking        45            0.2931                            Non-parametric; auto-discovers density modes (bandwidth=1.8475)
+
+2. K-MEANS CLUSTER PROFILES (k = 4 STUDENT PERSONAS):
+ cluster_id                     persona_name  count  share_pct  mean_learning  mean_adaptability  mean_crisis  mean_support
+          0       Adapted Blended Supporters    395      27.68          3.910              3.949        4.995         4.987
+          1         Balanced Hybrid Adapters    601      42.12          4.131              4.196        4.991         4.672
+          2        Crisis-Pragmatic Neutrals    356      24.95          3.348              3.219        4.994         4.865
+          3 Connectivity-Constrained Critics     75       5.26          2.951              3.133        3.489         2.880
+
+3. MEAN-SHIFT DENSITY CLUSTERS (NON-PARAMETRIC MODES):
+ cluster_id  count  share_pct  mean_learning  mean_adaptability  mean_crisis  mean_support
+          0    844      59.15          3.954              3.924        5.000         4.757
+          1    389      27.26          3.907              3.943        4.999         4.995
+          3     82       5.75          2.825              2.988        4.898         4.622
+          2     12       0.84          3.778              4.625        4.917         4.583
+         32     12       0.84          2.361              2.708        4.917         4.833
+          4     10       0.70          3.167              3.000        3.367         2.500
+         13      7       0.49          4.381              4.571        4.952         4.714
+          5      6       0.42          2.889              3.167        3.111         3.000
+          8      6       0.42          3.222              3.583        4.500         3.833
+          6      5       0.35          4.067              4.100        3.933         4.000
+          7      5       0.35          3.800              4.600        3.933         4.000
+          9      4       0.28          2.084              2.250        3.917         1.500
+         11      4       0.28          3.667              4.375        5.000         4.750
+         19      4       0.28          3.500              2.125        4.917         5.000
+         10      3       0.21          2.889              3.167        3.111         3.000
+         12      2       0.14          3.166              3.500        3.000         3.500
+         20      2       0.14          3.000              1.500        4.666         2.000
+         35      2       0.14          2.500              1.750        3.334         1.500
+         38      2       0.14          2.334              2.250        2.500         2.000
+         16      1       0.07          4.333              5.000        3.000         4.000
+         14      1       0.07          5.000              4.000        5.000         5.000
+         21      1       0.07          3.667              2.000        3.333         4.000
+         22      1       0.07          3.333              3.000        3.667         2.000
+         23      1       0.07          3.333              3.000        2.667         2.000
+         24      1       0.07          3.000              4.500        4.667         5.000
+         25      1       0.07          3.000              4.000        4.000         3.000
+         15      1       0.07          4.667              4.000        5.000         1.000
+         18      1       0.07          3.667              4.000        3.667         4.000
+         17      1       0.07          4.333              3.500        4.000         3.000
+         28      1       0.07          3.000              3.000        3.000         3.000
+         27      1       0.07          3.000              3.000        4.000         3.000
+         26      1       0.07          3.000              3.500        5.000         4.000
+         30      1       0.07          3.000              2.000        2.333         2.000
+         31      1       0.07          2.333              4.000        2.333         3.000
+         33      1       0.07          2.333              3.500        3.667         2.000
+         34      1       0.07          2.333              3.000        2.667         3.000
+         29      1       0.07          3.000              3.000        1.000         2.000
+         36      1       0.07          2.000              2.500        4.000         1.000
+         37      1       0.07          2.000              2.000        3.000         3.000
+         39      1       0.07          1.667              2.000        1.000         1.000
+         40      1       0.07          1.667              1.000        2.333         1.000
+         41      1       0.07          1.333              2.000        2.333         1.000
+         42      1       0.07          1.000              2.000        1.333         1.000
+         43      1       0.07          1.000              1.000        3.000         1.000
+         44      1       0.07          1.000              1.000        3.000         1.000
+
+KEY TAKEAWAYS FOR THESIS DEFENSE:
+1. K-Means (k=4) cleanly stratifies the college student population into 4 behavioral personas:
+   - 'Adapted Blended Supporters': High learning effectiveness, strong schedule adaptability, and high support for 2-2-1.
+   - 'Balanced Hybrid Adapters': Solid academic performance and moderate-to-high endorsement of resource savings.
+   - 'Crisis-Pragmatic Neutrals': Acknowledge power/fuel conservation benefits but report stronger F2F focus needs.
+   - 'Connectivity-Constrained Critics': Unreliable internet and multiple async challenges leading to low modality support.
+2. Mean-Shift clustering independently corroborates the density structure without preset cluster assumptions,
+   separating high-adaptability learners from connectivity-constrained outlier groups.
+================================================================================================

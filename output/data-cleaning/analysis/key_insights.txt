@@ -1,0 +1,39 @@
+KEY EMPIRICAL INSIGHTS & TAKEAWAYS
+================================================================================
+Study Title: Perceptions of College Students Toward Blended Learning as a Response to Power Fuel Crisis
+Authors: Johann Jethro O. Chavez, Mikylla Nicole M. Nañez, Divine Mae S. Ponciano (CNSC)
+Integrated Master Dataset N = 1,427 Clean Valid Records across 5 Unified Data Sources
+================================================================================
+
+1. THE CRISIS-MITIGATION VS. ACADEMIC-LEARNING GAP:
+   - Overall Mean Crisis Mitigation Index: 4.914 / 5.0 (High perceived utility in saving energy & fuel)
+   - Overall Mean Modality Adaptability Index: 3.828 / 5.0 (Moderate-to-high schedule compatibility)
+   - Overall Mean Academic Learning Index: 3.812 / 5.0 (Lower than crisis mitigation rating)
+   - Mean Crisis-Learning Gap: +1.101 (Students recognize blended learning helps reduce campus electricity
+     and household transport fuel expenses, but report stronger concentration during in-person classes,
+     with F2F Focus Preference averaging 4.448 / 5.0).
+
+2. DETERMINANTS OF SUPPORT FOR CONTINUING THE 2-2-1 MODALITY:
+   - Overall Mean Support for Continuation: 4.713 / 5.0
+     * Supportive: 1,346 (94.3%)
+     * Neutral: 29 (2.0%)
+     * Not supportive: 52 (3.6%)
+   - Pearson Correlations with Support for Continuing (`support_continue`):
+     * Academic Learning Index: r = 0.2666
+     * Modality Adaptability Index: r = 0.2228
+     * Crisis Mitigation Index: r = 0.6164
+
+3. DIGITAL INFRASTRUCTURE & CONNECTIVITY EQUITY:
+   - Home internet reliability strongly stratifies student experience: students with 'Very reliable'
+     connectivity achieve higher learning index scores and report fewer modality barriers than peers
+     with 'No/unreliable home internet'.
+   - Commuting students living at home report strong household fuel savings (`reduce_fuel`) under the
+     2-2-1 schedule while boarding/dormitory students emphasize campus Wi-Fi and power stability needs.
+
+4. TOP CHALLENGES & PRIORITY INSTITUTIONAL INTERVENTIONS:
+   - Primary Student Challenges: Internet connectivity issues, difficulty staying motivated during
+     asynchronous days, lack of real-time interaction with instructors, and screen fatigue.
+   - Priority Institutional Improvements Requested: Internet/technical support, stronger teacher-student
+     communication, balanced scheduling of laboratory/major courses on F2F days, and clearer asynchronous
+     learning materials.
+================================================================================

@@ -1,0 +1,12 @@
+﻿theme,frequency,theme_type,pct_of_sample
+c_internet_power,34.0,Challenge (Open-Ended),2.38
+c_motivation_focus,53.0,Challenge (Open-Ended),3.71
+c_interaction_consult,38.0,Challenge (Open-Ended),2.66
+c_time_workload,68.0,Challenge (Open-Ended),4.77
+c_screen_fatigue,13.0,Challenge (Open-Ended),0.91
+c_commute_cost,25.0,Challenge (Open-Ended),1.75
+s_wifi_tech_support,10.0,Suggestion (Open-Ended),0.7
+s_async_lms_materials,18.0,Suggestion (Open-Ended),1.26
+s_faculty_consultation,13.0,Suggestion (Open-Ended),0.91
+s_schedule_f2f_balance,50.0,Suggestion (Open-Ended),3.5
+s_workload_breaks,44.0,Suggestion (Open-Ended),3.08

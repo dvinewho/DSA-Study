@@ -1,0 +1,3 @@
+model,predictors,target,r2,rmse,mae
+Simple Linear Regression (SLR),learning_index,support_continue,0.0446,0.7585,0.484
+Multiple Linear Regression (MLR),"6 Predictors (Learning, Adaptability, Crisis, F2F Focus, Internet, Challenges)",support_continue,0.4561,0.5723,0.3373

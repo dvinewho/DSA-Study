@@ -1,0 +1,56 @@
+# Dataset Citations & Public Data Inventory
+
+## Primary Study (2-2-1 Blended Learning & Power/Fuel Crisis Survey)
+- **Title**: Perceptions of College Students Toward Blended Learning as a Response to Power Fuel Crisis
+- **Authors**: Johann Jethro O. Chavez, Mikylla Nicole M. Nañez, Divine Mae S. Ponciano
+- **Institution**: Camarines Norte State College (CNSC), Daet, Camarines Norte, Philippines
+- **Sample Size**: 123 raw / 117 cleaned student respondents (Combined Multi-Source Total: 1,530 raw / 1,427 cleaned records)
+- **File**: `dataset/Perceptions of College Students Toward Blended Learning as a Response to Power Fuel Crisis.csv`
+
+---
+
+## Public Study 1 (Blended Learning Perceptions, Engagement & Academic Achievement)
+- **Title**: Data on student perceptions of blended learning, engagement, and academic achievement in engineering-related universities in Vietnam
+- **Authors**: Hoai Thu Le, Hieu Hoc Le, Thanh Hai Thi Pham
+- **Year**: 2026
+- **Journal**: *Data in Brief*, Volume 67, 112958
+- **Mendeley Data DOI**: [10.17632/tdsspksw83.1](https://doi.org/10.17632/tdsspksw83.1)
+- **Sample Size**: 580 raw / 508 validated undergraduate responses across eight multidisciplinary and engineering-oriented universities (72 straight-line/careless responses screened out)
+- **File**: `dataset/public/Le_2026_VN_Blended_Learning_Perceptions/Blended learning_data set.xlsx`
+- **Key Constructs Mapped**: Overall Learning Experience (`LE1`), Cognitive Presence / Lesson Comprehension (`CP4`), Instructional Design / Schedule Fit (`IDQ2`, `IDQ5`), Academic Achievement (`AA2`), and Student Engagement / Retention (`SE2`).
+
+---
+
+## Public Study 2 (Undergraduate Self-Regulation in Online and Blended Learning Environments)
+- **Title**: Data on undergraduate students' self-regulation in online and blended learning environments during the COVID-19 pandemic in Indonesia
+- **Author**: Irwanto Irwanto
+- **Year**: 2024
+- **Institution**: State University of Jakarta, Indonesia
+- **Journal**: *Data in Brief*, Volume 53, 110066
+- **Mendeley Data DOI**: [10.17632/7bsvck73ng.1](https://doi.org/10.17632/7bsvck73ng.1)
+- **Sample Size**: 577 raw / 573 validated undergraduate student respondents (4 straight-line/careless responses screened out)
+- **File**: `dataset/public/Irwanto_2024_ID_SRL_Blended_Learning/Data for SPSS.xlsx`
+- **Key Constructs Mapped**: Online Self-Regulated Learning Questionnaire (OSLQ) constructs on a 1–5 scale: Time Management (`TM1`), Environment Structuring (`ES1`), Task Strategies (`TS1`), Goal Setting (`GS1`), and Self-Evaluation (`SE1`).
+
+---
+
+## Public Study 3 (Student Perception About Online and Blended Learning)
+- **Title**: Dataset Student Perception About Online Learning
+- **Institution**: Universitas Negeri Makassar (UNM), Indonesia
+- **Year**: 2021
+- **Repository**: Mendeley Data
+- **Mendeley Data DOI**: [10.17632/8myyf5t45z.3](https://doi.org/10.17632/8myyf5t45z.3)
+- **Sample Size**: 250 raw / 229 validated undergraduate student respondents (21 straight-line/careless responses screened out)
+- **File**: `dataset/public/Makassar_2021_Student_Perception_Online_Learning/Dataset Student Perception Online Learning.xlsx`
+- **Key Constructs Mapped**: Teaching delivery effectiveness, task tracking & submission comfort, schedule adaptability, in-person vs. digital focus preference, and institutional modality continuation support.
+
+---
+
+## Multi-Source Integration Summary
+| Study Identifier | Source Name / Reference | Raw Records | Screened Rows | Validated Records |
+| :--- | :--- | :---: | :---: | :---: |
+| **CNSC (Primary)** | Chavez, Nañez, & Ponciano (2026) | 123 | 6 | 117 |
+| **Le et al.** | Le et al. (2026), Mendeley `tdsspksw83.1` | 580 | 72 | 508 |
+| **Irwanto** | Irwanto (2024), Mendeley `7bsvck73ng.1` | 577 | 4 | 573 |
+| **Makassar** | UNM (2021), Mendeley `8myyf5t45z.3` | 250 | 21 | 229 |
+| **Total Pipeline** | **Multi-Source Unified Architecture** | **1,530** | **103** | **1,427** |

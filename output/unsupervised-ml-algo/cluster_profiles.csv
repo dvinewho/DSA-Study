@@ -1,0 +1,5 @@
+cluster_id,persona_name,count,share_pct,mean_learning,mean_adaptability,mean_crisis,mean_f2f_focus,mean_internet,mean_challenges,mean_support
+0,Adapted Blended Supporters,395,27.68,3.91,3.949,4.995,4.977,3.0,0.048,4.987
+1,Balanced Hybrid Adapters,601,42.12,4.131,4.196,4.991,4.737,1.988,0.075,4.672
+2,Crisis-Pragmatic Neutrals,356,24.95,3.348,3.219,4.994,3.458,1.997,0.022,4.865
+3,Connectivity-Constrained Critics,75,5.26,2.951,3.133,3.489,4.04,2.013,3.333,2.88

@@ -1,0 +1,3 @@
+algorithm,type,clusters,silhouette_score,key_property
+K-Means Clustering,Centroid / Partitioning,4,0.378,Preset k=4 personas; partitions latent construct space into distinct behavioral archetypes
+Mean-Shift Clustering,Density / Mode-Seeking,45,0.2931,Non-parametric; auto-discovers density modes (bandwidth=1.8475)

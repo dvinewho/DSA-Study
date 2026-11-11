@@ -1,0 +1,2 @@
+model,accuracy,prior
+Gaussian Naive Bayes,0.9272,Empirical
