@@ -73,3 +73,4 @@ To maximize the benefits of the 2-2-1 blended schedule while actively closing th
 - **Incorporate Objective Utility Metrics**: Complement self-reported Likert surveys with empirical campus electricity billing records, kilowatt-hour meter readings, and student transportation fare receipts.
 - **Conduct Longitudinal Academic Tracking**: Track student grade point averages (GPAs) and retention rates across semesters before, during, and after blended learning interventions to measure causal learning effects.
 - **Expand Multi-Campus Comparative Analytics**: Scale the Apache PySpark pipeline to integrate survey data across diverse state universities and colleges (SUCs) across all regions of the Philippines.
+
